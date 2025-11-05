@@ -1,4 +1,3 @@
-Jenkinsfile (Declarative syntax):
 pipeline {
     agent any
 
